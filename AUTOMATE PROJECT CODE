@@ -1,0 +1,427 @@
+{
+  "origin": [
+    "<h1 style='color:rgb(51,147,225)'><em>Scenarios of the Law Simulator<em></h1> <br><br><br><br><br><br><br><br><h4 style='color:rgb(51, 184,225)'> <em>#Intro#..<em> </h4><br><br><br><br><br><br><br><br><br><br><br><br><br><h6 style='color:rgb(51, 212, 255)'> <em>#Description#..<em> </h6> <br><br><br><br><br><br><br><br><br><br><br><br><br><br> <h5 style='color:rgb(51, 184,225)'> <em>your clients await your legal expertise...<em> <br><br><br><br><br><br><br><br><br><br><br><br> </h5><p> <h6 style='color:rgb(51,147,225)'>BREACH OF CONTRACT</h6>#Scenario 1 breach of contract#</p> <h6 style='color:rgb(51,147,225)'>TORT LAW</h6> <p>#Scenario 2 tort law#</p> <h6 style='color:rgb(51,147,225)'>CRIMINAL LIABILITY</h6> <p>#Scenario 3 criminal liability#</p> <h6 style='color:rgb(51,147,225)'> ASSAULT AND BATTERY </h6> <p>#Scenario 4 assault and battery#</p>"
+  ],
+  "Intro": [
+    "<p>This is a law scenario simulator #designed for# #beginner# law students who #want a challenge#."
+  ],
+  "designed for": [
+    "designed for",
+    "designed as a tribute to",
+    "created for",
+    "tailored to",
+    "invented for",
+    "developed for",
+    "created in support of",
+    "purposed for"
+  ],
+  "beginner": [
+    "beginner",
+    "novis",
+    "loser",
+    "sweaty",
+    "tryhard",
+    "annoying"
+  ],
+  "want a challenge": [
+   "want a challenge", 
+   "hunger for a challenge",
+   "desire a challenge", 
+   "will fail their exams otherwise", 
+   "want to make lecturer Mark H proud", 
+   "want a garunteed A+ in all first year law assignments"
+  ],
+  "Description": [
+    "#Greetings#, #law student#! To #advance# your understanding and the quality of your studies, I #present# to you this scenarios of the law simulator. You are no longer a law student, you are a #pretentious# lawyer. Each time you refresh this webpage you, dear lawyer, will be presented with the brief facts of five different cases, each pertaining to a specific area of law. It is your #job# to draw on the law as you know it and argue a case for your client with #vigor#. Fight. Win. Learn. And most of all, familiarise yourself with such content in time for LAW 131 and 141 exams."
+  ],
+  "Greetings": [
+    "Greetings", 
+    "Salutations", 
+    "Ahoy", 
+    "Yo", 
+    "Wassup", 
+    "Sup",
+    "Howdy", 
+    "Good day"
+    ], 
+    "law student": [
+      "law student", 
+      "student of the law",
+      "poor soul subject to the torture that is first year law", 
+      "brave one who has ventured into the discipline of law", 
+      "O intelligent one", 
+      "future lawyer", 
+      "future Judge", 
+      "legal student", 
+      "aspiring lawyer", 
+      "jurisprudence student", 
+      "future attorney" 
+    ],
+    "advance": [
+      "advance", 
+      "improve", 
+      "increase", 
+      "enhance", 
+      "amplify", 
+      "elevate", 
+      "upgrade"
+      ], 
+      "present": [
+        "present", 
+        "offer", 
+        "disclose", 
+        "submit", 
+        "provide"
+        ], 
+      "pretentious": [
+        "pretentious", 
+        "arrogant", 
+        "proud", 
+        "pompous", 
+        "conceited", 
+        "haughty", 
+        "ecotistical", 
+        "presumptuous", 
+        "superlicious"
+        ],
+        "job": [
+          "job", 
+          "task", 
+          "mission", 
+          "assignment", 
+          "duty", 
+          "project", 
+          "objective", 
+          "undertaking"
+          ], 
+          "vigor": [
+            "vigor", 
+            "vitality", 
+            "stamina", 
+            "dynamisim", 
+            "zeal", 
+            "intensity", 
+            "passion", 
+            "conviction", 
+            "verve", 
+            "enthusiasm", 
+            "fervor", 
+            "gusto", 
+            "endurance", 
+            "might"
+            ], 
+  "Scenario 1 breach of contract": [
+    "#setNames# #female name 1# is the CEO of #company#. #male name 2# wants to buy some #company products# in bulk. He sends her a message asking for 371 of her products, she replies with this emoji:👌. The products are delivered to him within the next week, however, he claims he did not officially purchase the products because there was no contract made, only a text message exchange. He believes he does not owe money to the company. <br><br><li>TASK: You are the lawyer for the company. Did these two parties enter into a contract? If so, how would you prove that?",
+    "#male name 1# has recently had an insatiable craving for #doughnut flavour# flavoured doughnuts. His #crafty# friend #female name 2# buys a box of these exact doughnuts and says she will give him the doughnuts only in exchange for his #fancy car# and house. #Blinded# by hunger and gullible by nature, he accepts and gives her to keys to his car and house. However, after eating the doughnuts, he comes to his senses and demands she give the house and car back. She refuses and claims they had a contract. He decides to sue her for stealing. <br><br><li>TASK 1: You are the lawyer for the defendant. How do you prove that what she did was a fufilment of a contract and not stealing? <br><br><li>TASK 2: You are the lawyer for the plaintiff. How do you prove that what she did cannot be justified as the fufilment of a contract?",
+    "#female name 2# works in an office where each employee has their own shelf in the communial fridge. When they were hired as employees, they signed a contract stating that 'Anyone who eats food that is not on their shelf must pay damages to the person they deprived of food'. One day, she notices a #food item# on her shelf that she did not bring herself. She eats it and forgets about it. #male name 2# is absolutely furious when he noitces someone ate his lunch and decides to sue her for damages. <br><br><li>TASK: You are her lawyer. How do you justify that the contract was not breached?"
+    ],
+    "setNames": [
+      "[company:Rubber Duckies Incorporated][company products: #rubber ducks#]",
+      "[company:JuiceBoxes Incorporated][company products:#juiceboxes#]"
+      ], 
+      "rubber ducks": [
+        "small red rubber ducks", 
+        "gargantuan purple rubber ducks", 
+        "medium green rubber ducks"
+        ], 
+      "juiceboxes": [
+        "pickle juice juiceboxes", 
+        "tomato juice juiceboxes", 
+        "dragonfruit juice juiceboxes"
+        ],
+  "female name 1": [
+    "Leila", 
+    "Evelyn", 
+    "Harper", 
+    "Piper", 
+    "Alice", 
+    "Grace", 
+    "Asher", 
+    "Stella", 
+    "Vanessa", 
+    "Isobel", 
+    "Mia"
+    ], 
+    "female name 2": [
+      "Freya", 
+      "Bella", 
+      "Aria", 
+      "Nellie", 
+      "Taya", 
+      "Eliza", 
+      "Natalie", 
+      "Lucy", 
+      "Maya", 
+      "Celeste", 
+      "Anastasia", 
+      "Isla", 
+      "Gertrude"
+      ], 
+      "male name 1": [
+      "Corey", 
+      "Issac", 
+      "Damon",
+      "Elijah", 
+      "Sebastian", 
+      "Henry", 
+      "Ethan", 
+      "Lucas", 
+      "Aiden", 
+      "Leo", 
+      "Joel", 
+      "Rico", 
+      "Tony", 
+      "Neil"
+      ], 
+      "male name 2": [
+        "Craig", 
+        "Cole", 
+        "Jerome", 
+        "Noah", 
+        "Matthew", 
+        "Joseph", 
+        "Troy", 
+        "Luke", 
+        "Justin", 
+        "Chris", 
+        "Paul", 
+        "Phillip"
+        ],
+        "👌": [
+        "🤓", 
+        "🤓", 
+        "👌", 
+        "🤙", 
+        "🆗", 
+        "🆒", 
+        "😻"
+        ], 
+        "doughnut flavour": [
+          "cookies and cream", 
+          "maple bacon", 
+          "tomato sauce and aioli", 
+          "vanilla and lime salt", 
+          "cheesy pickle", 
+          "oreo mayonnaise"
+          ],
+          "crafty": [
+            "crafty", 
+            "deceitful",
+            "deceptive", 
+            "dubious", 
+            "fraudulent", 
+            "sneaky", 
+            "duplictous"
+            ], 
+            "fancy car": [
+              "Bugatti La Voiture Noire", 
+              "Pagani Zonda HP Barchetta", 
+              "Rolls-Royce Sweptail", 
+              "Bugatti Centodieci", 
+              "Mercedes-Benz Maybach Exelero", 
+              "2000 Toyota Corolla", 
+              "Koenigsegg CCXR Trevita", 
+              "Ferrari F60 America", 
+              "Aston Martin Valkyrie"
+              ], 
+            "Blinded": [
+              "Blinded", 
+              "Transfixed", 
+              "Consumed", 
+              "Overwhelmed", 
+              "Overcome", 
+              "Dazed", 
+              "Innundated", 
+              "Ignorant", 
+              "Disoriented"
+              ], 
+              "food item": [
+                "waffle", 
+                "pickle ice cream sundae", 
+                "peanut butter hotdog", 
+                "banana pizza", 
+                "tomato-sauce bread", 
+                "mustard toast", 
+                "sardine soup", 
+                "mammoth zuccini"
+                ], 
+  "Scenario 2 tort law": [
+    "#male name 2# has been injured by falling over a #something silly to fall over# at his work. He decides to sue his workplace. <br><li>TASK 1: You are his lawyer. Under what tort can you sue his workplace? How would you calculate the damages owed to him? <br><br> <li>TASK 2: You are the lawyer for his workplace. How do you argue against this claim? (Hint: Contributing negligence).",
+    "The Beard Bros release a new product that claims to increase beard growth and shine. #male name 2# uses it and finds, to his suprise, that his beard turns a #funky# shade of green. He isn't the only person this has happened to, the company is sued by multiple men with green-tinged beards. The product label has the following warning: 'Do not use too much of this product and do not leave it on for too long. Neglecting to do so may result in a colour change of the hair it is applied to.' <br><li>TASK: You are the lawyer for one of the green-bearded men. Use your knowlegde on compensation for consumers to develop an argument as to why this company owes a duty of care to its customers.",
+    "#female name 1# buys a drink from the dairy. She can see through the glass bottle that the usually #colour 1# drink is  #colour 2# and notices it smells like #smell#. She drinks it regardless and begins to feel very sick and winds up in hospital. <br><li>TASK: You are the lawyer for the drink manufacturer. It is required that you write a legal opinion to advise your client as to how this case would go down in court. What precedential case would you use to corroborate what you say?",
+    "#female name 1# owns a pet parrot. The parrot is usually kept in a cage, however, today she decided to let it out for a fly. Unfortunately #parrot name# the parrot flew over onto her neighbour #female name 2#'s strawberry farm and eats many rows of nearly-ripe strawberries. <br><li>TASK: You are the lawyer for the neighbour with the strawberry farm. It is required that you write a legal opinion to advise your client as to how this case would go down in court. How can you justify that the precedent set by Rylands v Fletcher applies to this case?"
+  ],
+  "something silly to fall over": [
+    "swivelling chair", 
+    "paper shreader", 
+    "oscillating fan", 
+    "printer", 
+    "pile of documents", 
+    "mop", 
+    "broom", 
+    "bucket of water"
+    ], 
+    "funky": [
+      "funky", 
+      "intriguing", 
+      "interesting", 
+      "eccentric", 
+      "peculiar", 
+      "outlandish", 
+      "outrageous", 
+      "curious", 
+      "bizzare", 
+      "vibrant", 
+      "disgusting"
+      ], 
+      "colour 1": [
+        "red", 
+        "orange", 
+        "yellow", 
+        "green", 
+        "blue", 
+        "clear"
+        ],
+        "colour 2": [
+          "purple", 
+          "pink", 
+          "black", 
+          "brown", 
+          "grey", 
+          "murky"
+          ],
+          "smell": [
+            "fish", 
+            "sardines", 
+            "rust", 
+            "metal", 
+            "ozone", 
+            "petroleum", 
+            "burnt rubber", 
+            "chemicals"
+            ],
+          "parrot name": [
+            "Polly", 
+            "Charlie", 
+            "Sky", 
+            "Blue", 
+            "Ziggy", 
+            "Buddy", 
+            "Pip"
+            ], 
+  "Scenario 3 criminal liability": [
+    "#female name 1# has been accused of murdering her husband. However, she claims to have done it as an act of self defense as he was about to throw a #something# at her. <br><li>TASK 1: You are the woman's lawyer. How can you show the jury she is not criminally liable by using the elements of criminal liabiliy? <br><li>TASK 2: You are the man's lawyer. How do you argue that the woman's action is indeed murder?",
+    "#male name 1# was recently walking over bridge of the #river name# River, when he sees #female name 1# is clearly drowning in the river. He is, in fact, a #terrible# person and continues strolling without helping her. The next day, he hears she is dead. <br><li>TASK: Determine if he is criminally liable under the three elements of criminal liablilty. Justify your reasoning.",
+    "#female name 2# asks her friend #male name 1# for some pain killers. He gives her an unopened pack of 22 #strong pain killer#. Her pain is so unbearable that she consumes each individual pill in the whole packet. #sarcastic verb#, she dies. <br><li>TASK: Determine if he is criminally liable for her. How does her voluntary action impact this scenario?",
+    "#female name 1# and her friend #female name 2# are out looking for #bugs# in the long, dry grass. They have taken a magnifying glass with them. They get distracted and don't notice the magifying glass has reflected the sun onto a patch of dry grass. The grass ignites and causes a #small# fire. The girls notice the fire but do nothing about it and it eventually burns down a nearby house. <br><li>TASK: Determine if the girls are criminally liable for the fire. Did they possess the intention (actus reus) to commit a crime?",
+    "A 14 year old named #male name 1# enters a liquor store and places #no of whiskey bottles# whiskey bottles on the counter. The storekeeper doesn't ask for his ID and sells him the whiskey. In the storekeeper's defense, the 14-year old looked 'at least 18' and 'had a fully-grown mustache'. <br><li>TASK: Under the elements of criminal liability, determine how you think the storekeeper would be charged."
+  ],
+  "something": [
+    "a shard of metal", 
+    "a rock", 
+    "a solid metal rod", 
+    "cup", 
+    "knife", 
+    "bowl"
+    ], 
+    "river name": [
+      "Waikato",
+      "Whanganui", 
+      "Manawhatu", 
+      "Mātukituki", 
+      "Rakaia", 
+      "Taieri", 
+      "Rangitikei", 
+      "Matau"
+      ], 
+      "terrible": [
+        "terrible", 
+        "average", 
+        "horrible", 
+        "despicable", 
+        "malicious", 
+        "cruel"
+        ], 
+        "strong pain killer": [
+          "Neuromol",
+          "Paracetamol", 
+          "Ibuprofen", 
+          "Acetaminophen", 
+          "Aspirn", 
+          "Naproxen"
+          ], 
+          "sarcastic verb": [
+          "Suprisingly", 
+          "Inevitably", 
+          "Of course", 
+          "Astoundingly", 
+          "Remarkably", 
+          "Astonishingly"
+            ], 
+            "bugs": [
+              "ladybugs", 
+              "dragonflies", 
+              "geckos", 
+              "skinks", 
+              "stick bugs", 
+              "praying manti", 
+              "beetles", 
+              "butterflies"
+              ], 
+              "small": [
+                "huge", 
+                "gargantuan", 
+                "mini", 
+                "enormous", 
+                "monstrous", 
+                "gigantic", 
+                "moderate"
+                ], 
+                "no of whiskey bottles": [
+                "5", 
+                "6", 
+                "7", 
+                "8", 
+                "9", 
+                "10", 
+                "11", 
+                "12", 
+                "13", 
+                "14", 
+                "70"
+                ], 
+  "Scenario 4 assault and battery": [
+    "Three avid kayakers decided to go on a boys trip and see how far out to sea they could kayak. They used a navigation system that would tell them how far out to sea they were . When they had reached #no of km# out to sea, they decided to take a nap in their kayaks. When they awoke, they had drifted much further than they intended, and the navigation system had fallen out of #male name 1#'s boat. After 22 days, they had no food and limited water supply and were all dying. On the 25th day, #male name 2# tried to attack the other two to try eat them. The other two men killed him instead and ate his body as it was their only chance of survival. <br><li>TASK 1: Use the common law to argue that these men would indeed be considered murderers. <br><li>TASK 2: Use the common law to argue these men would not be considered murderers.",
+    "Two friends go out hunting in the good ol' New Zeland bush. They are complete #novices# and get very, very lost. They go two and a half weeks without food and little water. #male name 1#, the weaker of the two, is very near death when his friend #male name 2# kills him and eats his body. He survives and is eventually found by a rescue team. <br> <li>TASK: Under New Zealand common law, determine whether he would be charged with murder. Justify your reasoning.",
+    "#male name 1# has a very peculiar skin condition. Everytime force is applied to his skin it #skin condition#. As a result, he must wear a special T-Shirt that says 'Please do not touch me, I have a very sensitive skin condition'. #female name 2# ignores this warning on his shirt and gives him a big hug. He sues her for civil assault and battery. <br><li>TASK: You are his lawyer. How do you justify in court that her action was, in fact, assault and battery?"
+  ],
+   "no of km": [
+     "50", 
+     "60", 
+     "70", 
+     "80", 
+     "90", 
+     "100", 
+     "110", 
+     "120", 
+     "130", 
+     "140", 
+     "150"
+     ], 
+     "novices": [
+       "novices", 
+       "newbies", 
+       "rookies", 
+       "amateurs", 
+       "neophytes"
+       ], 
+       "skin condition": [
+         "breaks out in tiny red dots", 
+         "flakes off", 
+         "breaks out in yellow hives", 
+         "bruises blue",
+         "burns",
+         "bruises yellow", 
+         "bruises purple"
+         ]
+}
